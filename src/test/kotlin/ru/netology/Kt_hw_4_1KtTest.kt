@@ -371,6 +371,6 @@ class Kt_hw_4_1KtTest {
             transfer =  transferValue
         )
 
-        assertEquals(-1, result)
+        assertEquals(0, result)
     }
 }
